@@ -1,0 +1,1 @@
+AMD GPU power consumption calculation in kWh
